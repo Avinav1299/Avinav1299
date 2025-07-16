@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Avinav1299
+- 👋 Hi, I’m Abhinav Yadav
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning DSA in C++
 - 💞️ I’m looking to collaborate on ...
